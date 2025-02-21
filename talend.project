@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_YhPqYPA1Ee-lTNo56Zc1Bw" label="SalesforceTalend" description="" language="java" technicalLabel="SALESFORCETALEND" local="true" author="_YhPqYfA1Ee-lTNo56Zc1Bw" productVersion="Talend Cloud Data Management Platform-8.0.1.20250126_0750-patch" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <componentsSettings xmi:id="_0RvOcPA4Ee-2rNEZYaVnnw" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_0hTUcPA4Ee-2rNEZYaVnnw" name="DI|tHashOutput" family="Technical"/>
+    <migrationTask xmi:id="_Yh5KoPA1Ee-lTNo56Zc1Bw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_YhPqYfA1Ee-lTNo56Zc1Bw" login="vudavidgo@gmail.com"/>
+</xmi:XMI>
