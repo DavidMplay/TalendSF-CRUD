@@ -37,7 +37,6 @@
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
-    <talend.project.branch.name></talend.project.branch.name>
     <talend.product.version>8.0.1.20250126_0750-patch</talend.product.version>
     <talend.project.name>SALESFORCETALEND</talend.project.name>
     <current.test.resources.dir>${basedir}/src/test/resources</current.test.resources.dir>
